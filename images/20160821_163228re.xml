@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20160821_163228re.jpg</filename>
+	<path>/home/saul/Desktop/images/20160821_163228re.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saul</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>17</ymin>
+			<xmax>148</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

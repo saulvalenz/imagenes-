@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Foto 13-06-18 19 27 39re.jpg</filename>
+	<path>/home/saul/Desktop/images/Foto 13-06-18 19 27 39re.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>9</ymin>
+			<xmax>293</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

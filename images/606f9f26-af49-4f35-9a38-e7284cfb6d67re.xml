@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>606f9f26-af49-4f35-9a38-e7284cfb6d67re.jpg</filename>
+	<path>/home/saul/Desktop/images/606f9f26-af49-4f35-9a38-e7284cfb6d67re.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>48</ymin>
+			<xmax>333</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

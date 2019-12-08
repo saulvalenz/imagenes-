@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>A783D27B-A275-45E2-8F47-373B77AEDCF6 2re.jpg</filename>
+	<path>/home/saul/Desktop/images/A783D27B-A275-45E2-8F47-373B77AEDCF6 2re.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>121</ymin>
+			<xmax>288</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
